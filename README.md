@@ -1,6 +1,5 @@
-# Mlr's Math Template
+# Mlr的Latex模板
 
-A personal template for class notes.
+极大程度参考如下模板:
 
-Most of the code was modified from the following source:
 https://github.com/SeniorMars/dotfiles/tree/main/latex_template
